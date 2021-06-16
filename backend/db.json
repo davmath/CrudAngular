@@ -3,17 +3,17 @@
     {
       "id": 1,
       "name": "Caneta BIC Preta",
-      "price": 5.89
+      "price": "5.89"
     },
     {
       "id": 2,
       "name": "MacBook Pro",
-      "price": 12500.89
+      "price": "12500.89"
     },
     {
       "id": 3,
       "name": "Samsung S20+",
-      "price": 5050.89
+      "price": "5050.89"
     },
     {
       "name": "Geladeira",
@@ -26,9 +26,19 @@
       "id": 5
     },
     {
-      "name": "Mouse Razer",
-      "price": "106.99",
+      "name": "Teclado HyperX",
+      "price": "299.15",
       "id": 6
+    },
+    {
+      "name": "asdfasdfasd",
+      "price": "106.99",
+      "id": 7
+    },
+    {
+      "name": "a",
+      "price": "106.99",
+      "id": 8
     }
   ]
 }
